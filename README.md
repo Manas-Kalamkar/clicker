@@ -4,7 +4,7 @@ My first javascript game. Players can compete with each other by clicking the bu
 
 ---
 
-## Live Demo:  https://manas-kalamkar.github.io/Clicker/
+## Live Demo:  https://manas-kalamkar.github.io/clicker/
 
 
 ## 💻 Tech Stack
